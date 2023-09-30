@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-<!--
+- MyoungJa is the elderly care robot
+- We focus on improving the physical and mental health of them
+## Docs
+- https://docs.mju-rats.com/
+  - Docs include entire system and dev env of MyoungJa
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Repos
+- [mjbot_2023](https://github.com/MJU-Capstone-PetRobot/mjbot_2023)
+  - mjbot ros2 workspace
+- [MyongJa_FW](https://github.com/MJU-Capstone-PetRobot/MyongJa_FW)
+  - mjbot esp32 arduino workspace
