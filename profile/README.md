@@ -3,7 +3,7 @@
 - MyoungJa is the elderly care robot
 - We focus on improving the physical and mental health of them
 ## Docs
-- https://docs.mju-rats.com
+- [MJbot Docs](https://docs.mju-rats.com/docs/)
   - Docs include entire system and dev env of MyoungJa
 - [mjbot_datasheet](https://github.com/MJU-Capstone-PetRobot/mjbot_datasheet)
   - Datasheet is important.
