@@ -6,7 +6,7 @@
 - https://docs.mju-rats.com
   - Docs include entire system and dev env of MyoungJa
 - [mjbot_datasheet](https://github.com/MJU-Capstone-PetRobot/mjbot_datasheet)
-  - datasheet is important. don't ask me.
+  - Datasheet is important.
 
 ## Repos
 - [mjbot_2023](https://github.com/MJU-Capstone-PetRobot/mjbot_2023)
