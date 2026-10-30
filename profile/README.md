@@ -2,6 +2,7 @@
 
 MyoungJa is the elderly care robot  
 We focus on improving the physical and mental health of them
+video : https://youtu.be/FfN0cjAcmhg?si=qZ90iQZdC6lYbzZn
 
 - [User Guide](User_Guide.md) / [User GUIDE English.ver](User_Guide_en.md)
 
